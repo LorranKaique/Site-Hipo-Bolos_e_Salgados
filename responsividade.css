@@ -1,0 +1,41 @@
+@media screen and (max-width:1005px){
+    .navbar{
+        position: relative;
+    }
+    .menu{
+        display: none;
+    }
+    .logo{
+        margin:0;
+        text-align:center;
+    }
+    .corpo{
+        padding-top:50px;
+    }
+    .img-corpo{
+        flex:100%;
+        margin:5%;
+        text-align:center;
+    }
+    .corpo p{
+        text-align:center;
+    }
+
+    .contatos{
+        display: none;
+    }
+
+    .cel {
+        display: inline;
+        align-items: center;
+        /* border: 1px solid white; */
+    }
+    .card{
+        width:100%;
+    }
+
+    .whats{
+        display: none;
+    }
+
+}
